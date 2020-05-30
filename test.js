@@ -22,7 +22,7 @@ class Guru {
     this.name = name
   }
   static getDataGuru() {
-    return 'databaru'
+    return 'data'
   }
 }
 
