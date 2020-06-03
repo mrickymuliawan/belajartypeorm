@@ -5,7 +5,7 @@ let fetch = new Promise(function (resolve, reject) {
 });
 
 async function getData() {
-  let nama = 'budi'
+  let nama = 'budix'
   try {
     nama = await fetch
   } catch (error) {
